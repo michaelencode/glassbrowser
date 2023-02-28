@@ -1,6 +1,6 @@
-# glassbrowser
-fetch browser history and take screenshot for partner for review your online behavior
-A friend of mine requested that I build a program to help him resist the temptation of viewing NSFW content. He wants a tool that can track his browser activity and send a report of his browsing habits to a trusted friend via email. This way, he can have accountability and support in his efforts to avoid viewing inappropriate material.
+# Browser History Tracker and Screenshot Tool for Accountability
+- I built a program for a friend who requested a tool to help resist the temptation of viewing NSFW content online. The program tracks browser activity and sends a report of browsing habits to a trusted friend via email. This way, my friend can have accountability and support in his efforts to avoid viewing inappropriate material.
 
-The program will take screenshot by schedule. Meanwhile, the browser history will be analyzed. All the suspected NSFW content will be sent to designed email receipts. 
-Privacy Policy: To protect your privacy, The screenshots will be compressed and blurred. Most of the data computing will be processed on local machine. in the future, the unidentified URLs will be uploaded to continue natural language processing after stripping the parameters. After sending email, all content will be delete.
+- The program takes screenshots on a scheduled basis and analyzes browser history. All suspected NSFW content is sent to a designated email recipient for accountability purposes. To protect privacy, the screenshots are compressed and blurred. Most of the data computing is processed locally. In the future, unidentified URLs will be uploaded for natural language processing after stripping parameters. After sending the email report, all content is deleted to further protect privacy.
+
+- I hope this program can help others who want accountability and support in avoiding NSFW content online. Privacy is a top priority, and all measures have been taken to ensure protection of personal data.
